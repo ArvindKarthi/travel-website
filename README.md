@@ -1,2 +1,2 @@
 # travel-website
-Travelo is a travel website which is designed by me.
+Travelo is a travel website which offers a good travel adventure.
